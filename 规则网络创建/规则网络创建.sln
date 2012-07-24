@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "规则网络创建", "规则网络创建\规则网络创建.vcproj", "{67FE5B4A-EDA9-4B53-9DD8-8AFAB5DB630C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FE5B4A-EDA9-4B53-9DD8-8AFAB5DB630C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67FE5B4A-EDA9-4B53-9DD8-8AFAB5DB630C}.Debug|Win32.Build.0 = Debug|Win32
+		{67FE5B4A-EDA9-4B53-9DD8-8AFAB5DB630C}.Release|Win32.ActiveCfg = Release|Win32
+		{67FE5B4A-EDA9-4B53-9DD8-8AFAB5DB630C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "熵", "熵\熵.vcproj", "{15245860-F352-43A4-A375-81901EFB4131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15245860-F352-43A4-A375-81901EFB4131}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15245860-F352-43A4-A375-81901EFB4131}.Debug|Win32.Build.0 = Debug|Win32
+		{15245860-F352-43A4-A375-81901EFB4131}.Release|Win32.ActiveCfg = Release|Win32
+		{15245860-F352-43A4-A375-81901EFB4131}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NW模型逆向转化", "NW模型逆向转化\NW模型逆向转化.vcproj", "{7782C923-E9C8-4EF8-A8E8-AD2D34881ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7782C923-E9C8-4EF8-A8E8-AD2D34881ADB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7782C923-E9C8-4EF8-A8E8-AD2D34881ADB}.Debug|Win32.Build.0 = Debug|Win32
+		{7782C923-E9C8-4EF8-A8E8-AD2D34881ADB}.Release|Win32.ActiveCfg = Release|Win32
+		{7782C923-E9C8-4EF8-A8E8-AD2D34881ADB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
